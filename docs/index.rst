@@ -6,10 +6,9 @@
 2026 August 20 Class Demo documentation
 =======================================
 
-CHANGE THE NAME OF THE MODULE hello BELOW AFTER YOU CHANGE THE NAME OF hello.py TO MATCH YOUR PROJECT!
-Then you can change these documentation lines
+Here is a demo for class to see how the tools work.
 
-.. automodule:: hello
+.. automodule:: demo
    :members:
    :undoc-members:
    :show-inheritance:
